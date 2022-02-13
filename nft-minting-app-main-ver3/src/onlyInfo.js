@@ -537,7 +537,7 @@ function App() {
             <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-              Feb 14, 2022 - Public Sale starts
+              March 14, 2022 - Public Sale starts
             </s.TextDescription>
             <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
